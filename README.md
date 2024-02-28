@@ -9,7 +9,7 @@
 ### Описание программы:
 - при запуске программы пользователя попросят ввести любую строку, с любым количеством слов и символов, через запятую. После этого, при нажатии клавиши "Enter" будет выведена новая, результирующая строка, в которой будут отображены слова и символы из введённой пользователем строки, длина которых не превышает 3.
 
-<img src="https://raw.githubusercontent.com/splashbros30/final_test_for_the_main_block/main/screenshots/Screenshot_2.png" height="32"/></h1>
+<img src="https://raw.githubusercontent.com/splashbros30/final_test_for_the_main_block/main/screenshots/Screenshot_2.png" height="150"/></h1>
 
 Также в самом репозитории вы можете найти URL-ссылку на блок-схему данной программы и саму программу в формате файла JPG.
 
