@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\bin\Debug\net8.0\program.exe
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\bin\Debug\net8.0\program.deps.json
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\bin\Debug\net8.0\program.dll
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\bin\Debug\net8.0\program.pdb
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.dll
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.pdb
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\Denis\Desktop\GB\C-_PracticeGB\final_test_for_the_main_block\program\obj\Debug\net8.0\ref\program.dll
