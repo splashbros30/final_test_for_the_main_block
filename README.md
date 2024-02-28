@@ -11,6 +11,8 @@
 
 <img src="https://raw.githubusercontent.com/splashbros30/final_test_for_the_main_block/main/screenshots/Screenshot_2.png" height="300"/></h1>
 
+<img src="https://raw.githubusercontent.com/splashbros30/final_test_for_the_main_block/main/screenshots/Screenshot_3.png" height="300"/></h1>
+
 Также в самом репозитории вы можете найти URL-ссылку на блок-схему данной программы и саму программу в формате файла JPG.
 
 Спасибо за внимание!
